@@ -1,3 +1,4 @@
 print("Hola mundo")
 print("clone and push remote")
-input(print"escribe un número")
+numero=int(input("escribe un número"))
+print("el numero que escribiste fue", numero)
